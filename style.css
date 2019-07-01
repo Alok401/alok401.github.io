@@ -6,8 +6,9 @@
 }
 .foterend{
     background-image: url(Assets/backgrounds/Rectangle%2013.png);
-
+min-height: 70%;
     background-repeat:no-repeat;
+    background-size: cover;
     margin-top: 40px;
     
 }
@@ -20,7 +21,7 @@ footer{
 }
 .head{
     background-image:url(Assets/backgrounds/Rectangle%2011.png);
-    height: 100%;
+background-size: cover;
     background-repeat: no-repeat;
 }
 .lp img{
